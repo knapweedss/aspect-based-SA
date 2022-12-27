@@ -1,5 +1,5 @@
 # Part 1
-|------------------------------|--------------------|
+
 | Full match precision:        | 0.7781282860147214 |
 | Full match recall:           | 0.6218487394957983 |
 | Partial match ratio in pred: | 0.882229232386961  |
