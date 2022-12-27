@@ -1,7 +1,7 @@
 # Part 1
 <p align="center">
 <img src="images/pos_distr.png" alt="pos_distr" width="500" />
-</p>
+
 
 | Metric                       | Result             |
 |------------------------------|--------------------|
@@ -10,3 +10,5 @@
 | Partial match ratio in pred: | 0.882229232386961  |
 | Full category accuracy:      | 0.7486855941114616 |
 | Partial category accuracy:   | 0.8738170347003155 |
+
+</p>
