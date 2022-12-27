@@ -1,7 +1,6 @@
 # Part 1
-![](images/pos_distr.png =250x250)
 
-<img src="images/pos_distr.png" alt="pos_distr" width="200"/>
+<img src="images/pos_distr.png" alt="pos_distr" width="600"/>
 
 | Metric                       | Result             |
 |------------------------------|--------------------|
