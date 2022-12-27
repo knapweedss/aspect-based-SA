@@ -1,6 +1,6 @@
 # Part 1
 
-<img src="images/pos_distr.png" alt="pos_distr" width="500" align='center/>
+<img src="images/pos_distr.png" alt="pos_distr" width="500" align='center'/>
 
 | Metric                       | Result             |
 |------------------------------|--------------------|
