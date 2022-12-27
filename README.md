@@ -1,6 +1,8 @@
 # Part 1
 ![](images/pos_distr.png =250x250)
 
+<img src="images/pos_distr.png" alt="pos_distr" width="200"/>
+
 | Metric                       | Result             |
 |------------------------------|--------------------|
 | Full match precision:        | 0.7781282860147214 |
