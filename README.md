@@ -1,5 +1,5 @@
 # Part 1
-![](images/pos_distr.png)
+![](images/pos_distr.png =250x250)
 
 | Metric                       | Result             |
 |------------------------------|--------------------|
