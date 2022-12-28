@@ -1,5 +1,5 @@
 # Aspect Based Sentiment Analysis
-# Part 1
+# Часть 1 - выделение эксплицитных аспектов
 <p align="left">
 <img src="images/pos_distr.png" alt="pos_distr" width="500" />
 </p>
@@ -12,7 +12,7 @@
 | Full category accuracy:      | 0.7486855941114616 |
 | Partial category accuracy:   | 0.8738170347003155 |
 
-# Part 2
+# Часть 2 - оценка тональности упоминания аспекта
 
 | Metric                       | Result             |
 |------------------------------|--------------------|
