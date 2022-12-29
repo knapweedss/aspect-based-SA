@@ -33,12 +33,13 @@
 
 В результате качество стало хуже, поэтому в модели оставлен изначальный вариант 
 
-Baseline:
+**Baseline**:
+<p align="center">
 <img src="images/base.png" alt="pos_distr" width="200" />
 
-Changed:
+**Changed**:
 <img src="images/change.png" alt="pos_distr" width="200" />
-
+</p>
 
 # Часть 2 - оценка тональности упоминания аспекта
 
