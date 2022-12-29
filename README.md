@@ -23,6 +23,23 @@
 | Full category accuracy:      | 0.7486855941114616 |
 | Partial category accuracy:   | 0.8738170347003155 |
 
+Мы провели небольшой эсперимент с функциями, генерирующими фичи для crf:
+ 
+Убрали
+```
+'word[-3:]': word[-3:],
+'word[-2:]': word[-2:],
+```
+
+В результате качество стало хуже, поэтому в модели оставлен изначальный вариант 
+
+Baseline:
+<img src="images/base.png" alt="pos_distr" width="200" />
+
+Changed:
+<img src="images/change.png" alt="pos_distr" width="200" />
+
+
 # Часть 2 - оценка тональности упоминания аспекта
 
 | Metric                       | Result             |
