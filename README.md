@@ -27,8 +27,8 @@
  
 Убрали
 ```
-'word[-3:]': word[-3:],
-'word[-2:]': word[-2:],
+"word[-3:]": word[-3:],
+"word[-2:]": word[-2:],
 ```
 
 В результате качество стало хуже, поэтому в модели оставлен изначальный вариант 
@@ -36,7 +36,7 @@
 **Baseline**:
 <p align="center">
 <img src="images/base.png" alt="pos_distr" width="400" />
-</p>
+
 **Changed**:
 <p align="center">
 <img src="images/change.png" alt="pos_distr" width="400" />
