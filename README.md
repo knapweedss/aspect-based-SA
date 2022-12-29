@@ -35,10 +35,11 @@
 
 **Baseline**:
 <p align="center">
-<img src="images/base.png" alt="pos_distr" width="200" />
-
+<img src="images/base.png" alt="pos_distr" width="400" />
+</p>
 **Changed**:
-<img src="images/change.png" alt="pos_distr" width="200" />
+<p align="center">
+<img src="images/change.png" alt="pos_distr" width="400" />
 </p>
 
 # Часть 2 - оценка тональности упоминания аспекта
