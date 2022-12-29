@@ -1,4 +1,10 @@
 # Aspect Based Sentiment Analysis
+
+- Данные были взяты исходные корпуса из репозитория для проекта, данные не изменялись 
+
+- Папка models: сохраненные модели формата .sav
+
+
 # Часть 1 - выделение эксплицитных аспектов
 <p align="left">
 <img src="images/pos_distr.png" alt="pos_distr" width="500" />
