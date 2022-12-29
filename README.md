@@ -57,9 +57,6 @@
 
 | Metric                       | Result             |
 |------------------------------|--------------------|
-| Full match precision:        | 0.7050912584053795 |
-| Full match recall:           | 0.8275084554678692 |
-| Partial match ratio in pred: | 0.7973102785782901 |
-| Full category accuracy:      | 0.6954851104707013 |
-| Partial category accuracy:   | 0.6954851104707013 |
+| Fully Matched Pairs:         | 0.7801980198019802 |
+| Partially Matched Pairs:     |  0.584070796460177 |
 
