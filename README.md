@@ -1,4 +1,4 @@
-# Aspect Based Sentiment Analysis
+# Aspect-based Sentiment Analysis
 
 В качестве данных были взяты файлы из репозитория для проекта (без изменений)
 - **aspects_extraction.ipynb** - часть 1, выделение эксплицитных аспектов
